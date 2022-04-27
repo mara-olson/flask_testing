@@ -1,4 +1,4 @@
-pip3from model import Game, connect_to_db, db
+from model import Game, connect_to_db, db
 from party import app
 
 
